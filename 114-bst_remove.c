@@ -14,7 +14,7 @@ bst_t *find_min(bst_t *node)
 }
 
 /**
- * remove_bst_node - This removes a node from a Binary Search Tree
+ * bst_remove - This removes a node from a Binary Search Tree
  *
  * @root: Pointer to the root node of the tree
  * @value: Value to be removed
